@@ -15,6 +15,16 @@ npm run serve
 npm run build
 ```
 
+### Build with docker
+```
+npm run deploy
+```
+
+### Serve with docker
+```
+npm run deploy-server
+```
+
 ### Run your tests
 ```
 npm run test
